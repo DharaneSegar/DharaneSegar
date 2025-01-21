@@ -99,4 +99,17 @@ Feel free to view and download my resume [here](https://dharane-segar-portfolio.
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="25px"/>
 </p>
 
+## 🚀 My GitHub Journey
+
+<p align="center">
+  <a href="https://github.com/DharaneSegar">
+    <img src="https://github-readme-stats.vercel.app/api?username=DharaneSegar&show_icons=true&theme=tokyonight" alt="Dharane Segar's GitHub Stats" height="180px"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DharaneSegar">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DharaneSegar&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  </a>
+</p>
 
