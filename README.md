@@ -34,7 +34,7 @@ Here are some ideas to get you started: -->
 
 🤝 **Connect With Me**:
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/dharane-segar/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"></a>
   <a href="mailto:dharanesegar08@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" height="40"></a>
   <a href="https://www.instagram.com/dha.ra.ne/"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="40"></a>
