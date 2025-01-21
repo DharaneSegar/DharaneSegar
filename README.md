@@ -40,12 +40,6 @@
 </p>
 
 
-
-
-
-
-
-
 ## 🛠️ Technologies and Tools I use:
 
 <p> 
@@ -96,7 +90,7 @@
 <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" height="25px"/>
 </p>
 
-## 🚀 My GitHub Journey
+## 🚀 My GitHub Journey:
 
 <p align="center">
   <a href="https://github.com/DharaneSegar">
