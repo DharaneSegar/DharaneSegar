@@ -8,12 +8,10 @@
 
  <br/>
 
-👨🏻‍💻 About Me:
+## 👨🏻‍💻 About Me:
 
 <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952nzu34y2nlq08ml7haudulexu2etv6eprhzltzg2h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="290px" align="right" />
 
-
-🙋‍♂️ Explore more about me on **[My Personal Portfolio ](https://dharane-segar-portfolio.vercel.app/)**
 
 🎓 I am a final-year Software Engineering undergraduate at SLIIT.
 
@@ -23,13 +21,17 @@
 
 👯 I’m open to collaborating on full-stack web development and software solutions.
 
+🙋‍♂️ Explore more about me on **[My Personal Portfolio ](https://dharane-segar-portfolio.vercel.app/)**
+
+📄 Feel free to view and download my resume **[ here ](https://dharane-segar-portfolio.vercel.app/resume)**
+
 💬 Feel free to ask me about coding, tech, or software development!
 
 👨‍💻 Life Hack: Embrace learning, share knowledge, and innovate fearlessly—because growth lies in stepping out of your comfort zone! 🚀
 
 ⚡ Fun fact: I enjoy watching movies, listening to music, and exploring new technologies.
 
-🤝 **Connect With Me**:
+## 🤝 Connect With Me:
 
 <p>
   <a href="https://www.linkedin.com/in/dharane-segar/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="40"></a>
@@ -40,9 +42,7 @@
 
 
 
-📄 Check Out My Resume:
 
-Feel free to view and download my resume [here](https://dharane-segar-portfolio.vercel.app/resume).
 
 
 
