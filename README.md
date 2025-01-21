@@ -1,8 +1,5 @@
 <h1 align="center">Hello<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="60px"> I'm Dharane Segar</h1>
 
-<!--
-**soumyajit4419/soumyajit4419** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started: -->
 
 <div align="center">
   <img src ="Dharane.png" />
@@ -22,7 +19,7 @@ Here are some ideas to get you started: -->
 
 🌱 I’m currently learning Machine Learning and exploring its real-world applications.
 
-🔭 I work on projects in ML, Web Development, and Mobile App Development.
+🔭 I work on projects in Machine Learning, Web Development, and Mobile App Development.
 
 👯 I’m open to collaborating on full-stack web development and software solutions.
 
