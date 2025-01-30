@@ -23,7 +23,7 @@
 
 🙋‍♂️ Explore more about me on **[My Personal Portfolio ](https://dharane-segar-portfolio.vercel.app/)**
 
-📄 Feel free to view and download my resume **[ here ](https://dharane-segar-portfolio.vercel.app/resume)**
+📄 You can view and download my resume **[ here ](https://dharane-segar-portfolio.vercel.app/resume)**
 
 💬 Feel free to ask me about coding, tech, or software development!
 
