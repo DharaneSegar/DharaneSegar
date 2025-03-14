@@ -2,7 +2,7 @@
 
 
 <div align="center">
-  <img src ="Dharane1.png" />
+  <img src ="Dharane.png" />
   
 </div>
 
