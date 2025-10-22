@@ -13,7 +13,7 @@
 <img src="https://media3.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=6c09b952nzu34y2nlq08ml7haudulexu2etv6eprhzltzg2h&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" height="290px" align="right" />
 
 
-🎓 I am a final-year Software Engineering undergraduate at SLIIT.
+🎓 I am a fresh Software Engineering Graduate from SLIIT.
 
 🌱 I’m currently learning Machine Learning and exploring its real-world applications.
 
